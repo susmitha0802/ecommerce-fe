@@ -1,0 +1,8 @@
+.flex-style {
+    display: flex;
+}
+
+.flex-style a {
+    text-decoration: none;
+    color: black;
+}

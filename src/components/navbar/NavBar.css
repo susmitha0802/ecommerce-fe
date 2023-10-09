@@ -1,0 +1,7 @@
+nav a{
+    padding-right: 15px;
+  }
+  
+  nav a.active {
+    color: red;
+  }

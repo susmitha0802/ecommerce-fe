@@ -1,0 +1,13 @@
+.item {
+    width: 500px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.item:hover {
+    box-shadow: 5px 5px 50px #ccc;
+}
+.item img {
+    width: 100%;
+}

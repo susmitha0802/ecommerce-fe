@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bottle",
+      "description": "Bottle Description",
+      "price": 310,
+      "quantity": 5,
+      "variants": [
+        {
+          "id": 101,
+          "color": "blue",
+          "url": "https://m.media-amazon.com/images/I/61nb1cWMOiL._SX522_.jpg"
+        },
+        {
+          "id": 102,
+          "color": "red",
+          "url": "https://m.media-amazon.com/images/I/61aYjfxUHCL._SX522_.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "description": "Laptop Description",
+      "price": 79999,
+      "quantity": 12,
+      "variants": [
+        {
+          "id": 201,
+          "color": "grey",
+          "url": "https://m.media-amazon.com/images/I/51Qy7Yjx5PL._SL1201_.jpg"
+        },
+        {
+          "id": 202,
+          "color": "black",
+          "url": "https://m.media-amazon.com/images/I/51ETvFGF4QL._SL1201_.jpg"
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "prodId": 1,
+      "name": "Customer 1",
+      "email": "email1@prod.com",
+      "review": "Review 1",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "prodId": 1,
+      "name": "Customer 2",
+      "email": "email2@prod.com",
+      "review": "Review 2",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "prodId": 1,
+      "name": "Customer 3",
+      "email": "email3@prod.com",
+      "review": "Review 3",
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "prodId": 2,
+      "name": "Customer - 1",
+      "email": "email1@prod.com",
+      "review": "Review - 1",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "prodId": 2,
+      "name": "Customer - 2",
+      "email": "email2@prod.com",
+      "review": "Review - 2",
+      "rating": 3
+    },
+    {
+      "id": 6,
+      "prodId": 2,
+      "name": "Customer - 3",
+      "email": "email3@prod.com",
+      "review": "Review - 3",
+      "rating": 4
+    },
+    {
+      "name": "susmitha",
+      "email": "mbm@df",
+      "review": "test",
+      "rating": "1",
+      "prodId": 1,
+      "id": 7
+    }
+  ]
+}
